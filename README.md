@@ -6,3 +6,5 @@ Projeto realizado no curso de lógica de programação com javascript da alura.
 > 
 > O ```HTML``` do projeto, ```CSS``` e afins já estavam pre-programados pelos instrutores da alura.
 > Não está totalmente polido,algumas condições, funções, arrays e etc. Apenas para o treino e entendimento da lógica!
+
+Deploy já realizado: [Jogo do Número Secreto - Alura](https://jogo-coral-six.vercel.app/)
